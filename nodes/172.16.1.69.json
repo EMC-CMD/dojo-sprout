@@ -1,0 +1,10 @@
+{
+  "run_list": [
+    "recipe[apt]",
+    "recipe[tools]",
+    "recipe[langs]"
+  ],
+  "automatic": {
+    "ipaddress": "172.16.1.69"
+  }
+}
