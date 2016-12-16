@@ -89,4 +89,6 @@ sudo apt-get install vagrant
 
 sudo apt-get install nodejs
 
+#install vim
 
+sudo apt-get install vim
